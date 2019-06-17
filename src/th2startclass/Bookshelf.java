@@ -2,7 +2,7 @@ package th2startclass;
 
 /**
  *
- * @author yui 2019
+ * @author yui
  */
 public class Bookshelf {
     
